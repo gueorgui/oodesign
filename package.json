@@ -1,0 +1,24 @@
+{
+  "name": "oodesign",
+  "version": "1.0.0",
+  "description": "(Re-)learning OO design patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gueorgui/oodesign.git"
+  },
+  "author": "Gueorgui Tcherednitchenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gueorgui/oodesign/issues"
+  },
+  "homepage": "https://github.com/gueorgui/oodesign#readme",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
