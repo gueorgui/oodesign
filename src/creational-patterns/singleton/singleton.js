@@ -16,4 +16,4 @@ class Singleton {
   }
 }
 
-export default Singleton;
+module.exports = Singleton;
